@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f0ba6e-3224-4e23-800d-258b3cd8a99d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/infnet/calculator/controllers/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/infnet/calculator/controllers/CalculatorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/views/Calculator.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/views/Calculator.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -79,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583988609414</updated>
-      <workItem from="1583988617017" duration="3673000" />
+      <workItem from="1583988617017" duration="3780000" />
+      <workItem from="1583992862278" duration="114000" />
     </task>
     <servers />
   </component>
@@ -111,21 +112,25 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1874" height="287" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583992745407" />
-    <state x="449" y="170" width="1022" height="736" key="SettingsEditor" timestamp="1583988782022">
+    <state x="449" y="170" width="1022" height="736" key="SettingsEditor" timestamp="1583992965348">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="449" y="170" width="1022" height="736" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583988782022" />
+    <state x="449" y="170" width="1022" height="736" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583992965348" />
     <state x="723" y="378" key="cloudConfig.SelfSettingsDialog" timestamp="1583991977383">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="723" y="378" key="cloudConfig.SelfSettingsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583991977383" />
-    <state x="621" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1583988617029">
+    <state x="621" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1583992867297">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="621" y="363" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583988617029" />
+    <state x="621" y="327" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583992867297" />
     <state x="624" y="243" width="672" height="677" key="run.anything.popup" timestamp="1583989238813">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="624" y="243" width="672" height="677" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583989238813" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1583992959299">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583992959299" />
   </component>
 </project>
